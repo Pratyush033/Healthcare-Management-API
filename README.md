@@ -15,7 +15,6 @@ Frontend
 The frontend of the system is developed using React. 
 
 **It includes:**
-
 User-friendly interfaces for frontend development.
 Integration with backend APIs using Axios for seamless data retrieval and updates.
 User authentication features that are synchronized with backend authentication.
