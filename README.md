@@ -8,13 +8,13 @@ The backend of the system is developed using Java and Spring Boot.
 
 **It includes:**
 
-Data handling with HashMap.
+1.Data handling with HashMap.
 
-RESTful API endpoints for managing patients and scheduling appointments.
+2.RESTful API endpoints for managing patients and scheduling appointments.
 
-Authentication and authorization implemented with Spring Security.
+3.Authentication and authorization implemented with Spring Security.
 
-Data storage ensured with MySQL.
+4.Data storage ensured with MySQL.
 
 **Frontend**
 
@@ -22,19 +22,19 @@ The frontend of the system is developed using React.
 
 **It includes:**
 
-User-friendly interfaces for frontend development.
+1.User-friendly interfaces for frontend development.
 
-Integration with backend APIs using Axios for seamless data retrieval and updates.
+2.Integration with backend APIs using Axios for seamless data retrieval and updates.
 
-User authentication features that are synchronized with backend authentication.
+3.User authentication features that are synchronized with backend authentication.
 
 **Data Management and Security**
 
-The system ensures efficient data management and security:
+>The system ensures efficient data management and security:
 
-Data management is implemented using HashMap.
+>Data management is implemented using HashMap.
 
-Binary search is applied for streamlined data retrieval.
+>Binary search is applied for streamlined data retrieval.
 
-Secure authentication mechanisms are implemented using JWT tokens.
+>Secure authentication mechanisms are implemented using JWT tokens.
 
