@@ -11,7 +11,9 @@ Data handling with HashMap.
 RESTful API endpoints for managing patients and scheduling appointments.
 Authentication and authorization implemented with Spring Security.
 Data storage ensured with MySQL.
-Frontend
+
+**Frontend**
+
 The frontend of the system is developed using React. 
 
 **It includes:**
